@@ -1,0 +1,11 @@
+{
+  "name": "FuelProductionChain",
+  "version": "0.1.0",
+  "factorio_version": "0.14",
+  "title": "Fuel Production Chain",
+  "author": "Xarium",
+  "contact": "",
+  "homepage": "",
+  "description": "Is a simple way to turn your excess of wood in coal and the coal in light/heavy oil... It starts to become more interesting if you could also build a greenhouse!",
+  "dependencies": ["base >= 0.14.0", "? bobgreenhouse >= 0.14.0"]
+}
